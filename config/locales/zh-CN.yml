@@ -1391,9 +1391,9 @@ zh-CN:
         #original_hash: 695f7ba
         comp_not_found_action_2: 如果您是通过其他网站的链接进入此页面，请通知该网站其链接不正确。
         #original_hash: 7f8f419
-        session_expired: 工作阶段已过期
+        session_expired: Session 已过期
         #original_hash: f3e688a
-        session_expired_action: 您的工作阶段已过期。请重新整理页面、重新执行您的操作，或重新登录以继续。
+        session_expired_action: 您的 Session 已过期。请刷新页面、重试刚才的操作，或重新登录后继续。
     doorkeeper:
       applications:
         help:
